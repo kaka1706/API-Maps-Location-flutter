@@ -1,21 +1,35 @@
-<<<<<<< HEAD
-# praktik14
+# API Maps Location Flutter
 
-Flutter project.
+A simple **Flutter** application that displays the user's location on a map using the **Google Maps API**.  
+The main features of this application include:
 
-## Getting Started
+- Displaying maps using Google Maps
+- Retrieving the user's current location
+- Displaying location pins at current coordinates
+- Integrating the location API with the Flutter UI
 
-This project is a starting point for a Flutter application.
+This project is suitable for learning how to use:
+✔ Google Maps Flutter  
+✔ Google Maps API Key  
+✔ Location permission (GPS)  
+✔ Displaying markers on the map
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# API-perangkatkeras-flutter
-Implementasi API perangkat keras dengan menggunakan flutter
->>>>>>> 1da6fc5017e8053cd4cef67888a2e682652dd3e6
+✨ Displaying Maps  
+✨ Getting Device Location  
+✨ Displaying Markers on Location  
+✨ Supports Android & iOS
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Version |
+|-----------|-------|
+| Flutter | 3.x / 4.x |
+| Dart | Null Safety |
+| google_maps_flutter | Google Maps plugin |
+| location | Plugin for retrieving location |
